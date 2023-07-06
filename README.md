@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mert Yilmaz
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently work Flutter
 
 
 <!---
